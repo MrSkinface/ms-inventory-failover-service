@@ -1,1 +1,4 @@
-# ms-inventory-failover-service
+
+
+# Inventory failover service
+Inventory failover service
