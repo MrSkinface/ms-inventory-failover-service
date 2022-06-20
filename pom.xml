@@ -12,6 +12,13 @@
     <name>ms-inventory-failover-service</name>
     <description>ms-inventory-failover-service</description>
 
+    <repositories>
+        <repository>
+            <id>brewery-starter</id>
+            <url>https://maven.pkg.github.com/MrSkinface/ms-brewery-starter</url>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
